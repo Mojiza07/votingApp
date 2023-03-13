@@ -1,0 +1,141 @@
+.verifyAccForm_div{
+    width: 97%;
+    height: 500px;
+}
+.OtpInput_link{
+    border-radius: 30px;
+}
+.otpInputBox_div{
+    /* overflow: hidden; */
+    /* max-width: 80%; */
+    display: flex;
+
+}
+.verifyAccImg{
+    margin-right: 50%;
+    width: 60%;
+    margin-top: -3%;
+    height: 720px
+}
+.verifyAccForm{
+    /*background-color: blue;*/
+    width: 300px;
+    margin-top: -610px;
+    margin-left: 900px;
+    display: grid;
+    padding-left: 20px;
+}
+
+.welcomeV{
+    width: 188px;
+    height: 32px;
+    margin-left: 150px;
+    margin-bottom: 2px;
+    /*margin-bottom: 40px;*/
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27.2px;
+    line-height: 32px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.welcomeTextV{
+    width: 418px;
+    height: 19px;
+    margin-left: 65px;
+    margin-bottom: 45px;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+}
+
+input{
+    margin-left: 0px;
+    margin-bottom: 20px;
+    width: 90%;
+    padding: 20px;
+    background: #FFFFFF;
+    border: 1.51111px solid #C4C4C4;
+    border-radius: 12.0889px;
+
+}
+
+input::-webkit-input-placeholder{
+    color: #C4C4C4;
+}
+
+.already_have_an_account{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    display: flex;
+    align-items: flex-end;
+
+    color: #C4C4C4;
+}
+
+.alreadyHaveAnAccount_div{
+    display: flex;
+}
+.logIn_link{
+    margin-left: 210px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.signUp_btn{
+    width: 90%;
+    height: 50px;
+    margin-top: 30px;
+
+    background: #f1f7a5;
+    border: 1.51111px solid #f1f7a5;
+    border-radius: 12.0889px;
+
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}.transparentDiv{
+     width: 144%;
+     height: 769.1px;
+     margin-left: -29%;
+     margin-top: -140%;
+     /* background-color: rgba(37,32,41,0.4); */
+ }
+
+
+
+.notification{
+    width: 430px;
+    height: 130px;
+    margin-top: -390px;
+    margin-left: -70%;
+    /* margin-right: -20%; */
+    background-color: white;
+    text-align: center;
+
+
+    padding: 40px;
+    font-weight: 500;
+
+    border-radius: 16.7628px;
+}

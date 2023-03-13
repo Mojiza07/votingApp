@@ -1,0 +1,148 @@
+.login-container{
+    /* border: 1px solid red; */
+    overflow: hidden;
+    display: flex;
+    width: auto;
+}
+.login-image{
+    /* border: 1px solid blue; */
+    max-width: 50%;
+    overflow: hidden;
+}
+
+.logInImage{
+    width: 50%;
+    height: 753px;
+    
+}
+.logInForm{
+    width: 500px;
+    /* margin-top: -610px; 
+    /* margin-left: 880px; */
+    /* display: grid; */
+    padding-left: 50px;
+    /* border: 1px solid green;*/
+} 
+
+.welcomeBack{
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+
+.welcomeBackText{
+    margin-bottom: 60px;
+    margin-left: 130px;
+}
+
+.DivTwo{
+    gap: 20px;
+    display: flex;
+    justify-content:center;
+}
+
+.checkBoxRememberMe_div{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkBox{
+    /* margin-left: -1px; */
+    /* margin-top: 3px; */
+    margin-bottom: 5px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+/*INPUT[type=checkbox]:checked*/
+/* {*/
+/*    background: #55229E;*/
+/* }*/
+.rememberMe{
+    width: 200px;
+    margin-left: 3px;
+}
+
+.letterIAndForgotPassword_div{
+    display: flex;
+    padding-left: 30px;
+    margin-left: 80px;
+    margin-top: 5px;
+    /* border: 1px solid green; */
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.letterI{
+    /* border: 1px solid blue; */
+    width: 5px;
+    height: 13px;
+    margin-top: 3px;
+}
+
+.forgotPassword{
+    /* padding-right: 20px; */
+    font-size: 15px;
+    font-weight: 400;
+    /* border: 1px solid red; */
+}
+
+.logIn_btn{
+    width: 90%;
+    height: 50px;
+    margin-top: 30px;
+
+    background: #f1f7a5;
+    border: 1.51111px solid #f1f7a5;
+    border-radius: 12.0889px;
+
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.dontHaveAnAccount_div{
+    display: flex;
+    margin-top: 30px;
+}
+
+.dontHaveAnAccount{
+    font-weight: 400;
+    color: black;
+}
+
+.signUp_link{
+    margin-left: 210px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+
+/*INPUT[type=checkbox]:focus*/
+/*{*/
+/*    outline: 1px solid rgba(0, 0, 0, 0.2);*/
+/*}*/
+
+/*INPUT[type=checkbox]*/
+/*{*/
+/*    background-color: #DDD;*/
+/*    border-radius: 2px;*/
+/*    appearance: none;*/
+/*    -webkit-appearance: none;*/
+/*    -moz-appearance: none;*/
+/*    width: 17px;*/
+/*    height: 17px;*/
+/*    cursor: pointer;*/
+/*    !*position: relative;*!*/
+/*    !*top: 5px;*!*/
+/*}*/
+
+/*INPUT[type=checkbox]:checked*/
+/*{*/
+/*    background: #55229E url("data:image/gif;base64,R0lGODlhCwAKAIABAP////3cnSH5BAEKAAEALAAAAAALAAoAAAIUjH+AC73WHIsw0UCjglraO20PNhYAOw==") no-repeat 3px 3px;*/
+/*}*/

@@ -1,0 +1,79 @@
+.otpInputBox_div{
+    margin-top: 5%;
+    margin-left: 30%;
+}
+#button{
+    background-color: greenyellow;
+    width: 40%;
+    border-radius: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    cursor:grab
+}
+.otpInputImg{
+    width: 50%;
+    height: 753px;
+    margin-left: -50%;
+    margin-top: auto;
+}
+.otpInputForm{
+    display: grid;
+    width: 500px;
+    margin-top: -500px;
+    margin-left: 800px;
+    padding-left: 20px;
+
+    font-family: Inter, sans-serif;
+}
+
+.enterYourOtp{
+    margin-right: 150px;
+}
+
+.input{
+    margin-top: 50px;
+    display: flex;
+    width: 400px;
+    height: 80px;
+}
+
+.inputOne{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputTwo{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputThree{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputFour{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.continue_btn{
+
+    width: 90%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: -20px;
+
+    background: #55229E;
+    border: 1.51111px solid #56229E;
+    border-radius: 12.0889px;
+
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}

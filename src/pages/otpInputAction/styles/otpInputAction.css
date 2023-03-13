@@ -1,0 +1,121 @@
+.otpInputBox_div{
+    /* display: flex; */
+    /* overflow: hidden; */
+}
+.otpInputActionImg{
+    width: 180%;
+    height: 800px;
+    margin-left: -120%;
+    margin-top: -70px;
+}
+.otpInputForm{
+    display: grid;
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding-left: 20px;
+
+    font-family: Inter, sans-serif;
+}
+
+.enterYourOtp{
+    margin-left: 55px;
+}
+
+.input{
+    margin-top: 50px;
+    display: flex;
+    width: 400px;
+    height: 80px;
+}
+
+.inputOne{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputTwo{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputThree{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputFour{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.continue_btn{
+
+    width: 90%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: -20px;
+
+    background: greenyellow;
+    border: 1.51111px solid #f1f7a5 ;
+    border-radius: 12.0889px;
+
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.transparentDiv_otpInputAction{
+    width: 600px;
+    height: 883px;
+    margin-left: -160px;
+    margin-top: -120%;
+    background-color: rgba(37,32,41,0.4);
+}
+
+.notification_otpInputAction{
+    font-weight: 700;
+    font-size: 15px;
+
+    width: 460px;
+    height: 110px;
+    margin-top: -440px;
+    margin-left: -420px;
+    background-color: white;
+    text-align: center;
+
+    padding: 40px;
+
+    border-radius: 16.7628px;
+}
+
+.yourAccountHasBeenSuccessfullyVerified{
+    margin-top: -15px;
+}
+
+.continue_link{
+    /* margin-top: 40px;
+    margin-left: 255px; */
+    width: 40%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 140px;
+
+    background: greenyellow;
+    border: 1.51111px solid #f1f7a5 ;
+    border-radius: 12.0889px;
+    
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+#continue_link{
+     margin-top: 15px;
+     /* margin-left: 255px; */
+}
